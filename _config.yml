@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxin Xiao | 肖宇新"
+title                    : "Yuxin Xiao 肖宇新"
 title_separator          : "-"
-name                     : &name "Yuxin Xiao | 肖宇新"
+name                     : &name "Yuxin Xiao 肖宇新"
 description              : &description "Ph.D. @ MIT IDSS & CSAIL"
 url                      : https://xiaoyuxin1002.github.io
 baseurl                  : ""
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxin Xiao | 肖宇新"
+  name             : "Yuxin Xiao 肖宇新"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. @ MIT IDSS & CSAIL"
   location         : "Cambridge, MA, USA"
