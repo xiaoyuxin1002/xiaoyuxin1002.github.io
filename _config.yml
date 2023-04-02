@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxin Xiao | 肖宇新"
+title                    : "Yuxin Xiao \| 肖宇新"
 title_separator          : "-"
 name                     : &name "Yuxin Xiao | 肖宇新"
 description              : &description "Ph.D. @ MIT IDSS & CSAIL"
