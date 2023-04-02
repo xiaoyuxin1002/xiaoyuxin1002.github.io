@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About Me
+======
 
 I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on Machine Learning for Healthcare, with a particular focus on Healthy Natural Language Processing (HealthyNLP).
 
@@ -16,4 +18,4 @@ My research centers around two primary questions:
 
 I am actively compiling a list of relevant HealthyNLP papers, which can be found via [this link](https://github.com/xiaoyuxin1002/AwesomeHealthyNLP).
 
-For more information about my background and qualitifications, please refer to [my CV](https://github.com/xiaoyuxin1002/xiaoyuxin1002.github.io/files/CV.pdf).
+For more information about my background and qualitifications, please refer to [my CV](https://xiaoyuxin1002.github.io/files/CV.pdf).
