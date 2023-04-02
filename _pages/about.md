@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on Machine Learning for Healthcare (ML4H), with a particular focus on Healthy Natural Language Processing (HealthyNLP).
+I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on Machine Learning for Healthcare, with a particular focus on Healthy Natural Language Processing (HealthyNLP).
 
 My research centers around two primary questions:
 * How can we mitigate the effects of spurious correlations in language models, which are often trained on biased real-world data and can produce unequal results for different demographic groups?
