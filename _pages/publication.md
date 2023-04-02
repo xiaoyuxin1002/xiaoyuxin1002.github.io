@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+excerpt: "Publication"
 permalink: /publication/
 author_profile: true
 redirect_from:
