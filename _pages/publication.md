@@ -14,7 +14,7 @@ During Ph.D.
 
 * **In the Name of Fairness: Assessing the Bias in Clinical Record De-identification** <br>
   <u>Yuxin Xiao</u>\*, Shulammite Lim\*, Tom Joseph Pollard, Marzyeh Ghassemi. <br>
-  [FAccT 2022] (Oral Presentation) <br>
+  [FAccT 2023] (Oral Presentation) <br>
   <details> 
     <summary>
         Abstract |
