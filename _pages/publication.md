@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+During Ph.D.
+======
+
+* **In the Name of Fairness: Assessing the Bias in Clinical Record De-identification** <br>
+  <u>Yuxin Xiao</u>\*, Shulammite Lim\*, Tom Joseph Pollard, Marzyeh Ghassemi. <br>
+  [FAccT 2022] (Oral Presentation) <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://arxiv.org/pdf/2305.11348.pdf" role="button" target="_blank"> Paper </a> | 
+        <a href="https://github.com/xiaoyuxin1002/bias_in_deid" role="button" target="_blank"> Code </a>
+    </summary>
+    Data sharing is crucial for open science and reproducible research, but the legal sharing of clinical data requires the removal of protected health information from electronic health records. This process, known as de-identification, is often achieved through the use of machine learning algorithms by many commercial and open-source systems. While these systems have shown compelling results on average, the variation in their performance across different demographic groups has not been thoroughly examined. In this work, we investigate the bias of de-identification systems on names in clinical notes via a large-scale empirical analysis. To achieve this, we create 16 name sets that vary along four demographic dimensions: gender, race, name popularity, and the decade of popularity. We insert these names into 100 manually curated clinical templates and evaluate the performance of nine public and private de-identification methods. Our findings reveal that there are statistically significant performance gaps along a majority of the demographic dimensions in most methods. We further illustrate that de-identification quality is affected by polysemy in names, gender context, and clinical note characteristics. To mitigate the identified gaps, we propose a simple and method-agnostic solution by fine-tuning de-identification methods with clinical context and diverse names. Overall, it is imperative to address the bias in existing methods immediately so that downstream stakeholders can build high-quality systems to serve all demographic parties fairly.
+  </details>  
 
 Before Ph.D.
 ======
