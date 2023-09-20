@@ -10,12 +10,10 @@ redirect_from:
 About Me
 ======
 
-I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on Machine Learning for Healthcare, with a particular focus on Healthy Natural Language Processing (HealthyNLP).
+I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on machine learning for healthcare, with a particular focus on natural language processing for healthcare.
 
-My research centers around two primary questions:
-* How can we mitigate the effects of spurious correlations in language models, which are often trained on biased real-world data and can produce unequal results for different demographic groups?
-* How can we accurately quantify the uncertainty associated with the outputs of language models, enabling decision-makers to make more informed choices in high-stakes applications?
+My current research centers around two primary questions:
+* How can we mitigate the bias, miscalibration, and hallucination of language models, improving the deployability and ethics of these tools in real-world applications?
+* How can we accurately and fairly assess the generation quality of language models, enabling decision-makers to make more informed choices in high-stakes scenarios?
 
-I am actively compiling a list of relevant HealthyNLP papers, which can be found via [this link](https://github.com/xiaoyuxin1002/AwesomeHealthyNLP).
-
-For more information about my background and qualitifications, please refer to [my CV](https://xiaoyuxin1002.github.io/files/CV.pdf).
+For more information about my background and qualifications, please refer to [my CV](https://xiaoyuxin1002.github.io/files/CV.pdf).

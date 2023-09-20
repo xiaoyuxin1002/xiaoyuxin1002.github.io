@@ -14,7 +14,7 @@ Education
 ======
 
 * Ph.D. in Social and Engineering Systems, Massachusetts Institute of Technology
-  * 06/2022 - present, GPA: N.A./4.0
+  * 06/2022 - present, GPA: 5.0/5.0
   * Advised by Prof. Marzyeh Ghassemi
 
 * M.S. in Machine Learning, Carnegie Mellon University
@@ -37,7 +37,7 @@ Awards & Honors
 
 Industry Experience
 ======
-* Bosch Center for AI @ Stuttgart, Germany
+* Bosch Center for AI @ Renningen, Germany
   * 06/2023 - 08/2023, Research Intern
 
 * Cars.com @ Chicago, USA
