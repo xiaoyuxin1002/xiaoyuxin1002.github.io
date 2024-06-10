@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxin Xiao | 肖宇新"
 title_separator          : "-"
 name                     : &name "Yuxin Xiao | 肖宇新"
-description              : &description "Ph.D. @ MIT IDSS & CSAIL"
+description              : &description "Ph.D. @ MIT IDSS & LIDS"
 url                      : https://xiaoyuxin1002.github.io
 baseurl                  : ""
 repository               : "xiaoyuxin1002.github.io"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Yuxin Xiao | 肖宇新"
-  avatar           : "profile.jpeg"
-  bio              : "Ph.D. @ MIT IDSS & CSAIL"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. @ MIT IDSS & LIDS"
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : 
