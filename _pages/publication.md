@@ -65,7 +65,7 @@ Before Ph.D.
   
 * **Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark** <br>
   Carl Yang\*, <u>Yuxin Xiao</u>\*, Yu Zhang\*, Yizhou Sun, Jiawei Han. <br>
-  [TKDE Journal 2020] (200+ Citations, 270+ GitHub Stars and Forks) <br>
+  [TKDE Journal 2020] (300+ Citations, 370+ GitHub Stars and Forks) <br>
   <details> 
     <summary>
         Abstract |

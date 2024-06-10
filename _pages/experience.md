@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Social and Engineering Systems, Massachusetts Institute of Technology
+* Ph.D. in Social & Engineering Systems and Statistics, Massachusetts Institute of Technology
   * 06/2022 - present, GPA: 5.0/5.0
   * Advised by Prof. Marzyeh Ghassemi
 
@@ -31,12 +31,15 @@ Awards & Honors
 
 * 2020 UIUC C.W. Gear Outstanding Undergraduate Award, UIUC
 * 2020 CRA Outstanding Undergraduate Researcher Award Honorable Mention
-* 2019 IEEE BigData Student Travel Award
 * 2012-2015 Singapore Senior-Middle 1 (SM1) Scholarship
 
 
 Industry Experience
 ======
+
+* Zoom @ San Jose, USA
+  * 06/2024 - 08/2024, Research Intern
+
 * Bosch Center for AI @ Renningen, Germany
   * 06/2023 - 08/2023, Research Intern
 
@@ -46,6 +49,7 @@ Industry Experience
 
 Teaching Experience
 ======
+
 * Massachusetts Institute of Technology
   * 06/2022 to 08/2022, 14.310x Data Science for Social Scientists
 
