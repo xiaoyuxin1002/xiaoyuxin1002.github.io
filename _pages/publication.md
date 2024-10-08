@@ -12,6 +12,18 @@ redirect_from:
 During Ph.D.
 ======
 
+* **SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe** <br>
+  <u>Yuxin Xiao</u>, Shujian Zhang, Wenxuan Zhou, Marzyeh Ghassemi, Sanqiang Zhao. <br>
+  [arXiv 2024] (Preprint) <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://arxiv.org/pdf/2410.05248.pdf" role="button" target="_blank"> Paper </a> | 
+        <a href="" role="button" target="_blank"> Code </a>
+    </summary>
+    To induce desired behaviors in large language models (LLMs) for interaction-driven tasks, the instruction-tuning stage typically trains LLMs on instruction-response pairs using the next-token prediction (NTP) loss. Previous work aiming to improve instruction-tuning performance often emphasizes the need for higher-quality supervised fine-tuning (SFT) datasets, which typically involves expensive data filtering with proprietary LLMs or labor-intensive data generation by human annotators. However, these approaches do not fully leverage the datasets' intrinsic properties, resulting in high computational and labor costs, thereby limiting scalability and performance gains. In this paper, we propose SFTMix, a novel recipe that elevates instruction-tuning performance beyond the conventional NTP paradigm, without the need for well-curated datasets. Observing that LLMs exhibit uneven confidence across the semantic representation space, we argue that examples with different confidence levels should play distinct roles during the instruction-tuning process. Based on this insight, SFTMix leverages training dynamics to identify examples with varying confidence levels, then applies a Mixup-based regularization to mitigate overfitting on confident examples while propagating supervision signals to improve learning on relatively unconfident ones. This approach enables SFTMix to significantly outperform NTP across a wide range of instruction-following and healthcare domain-specific SFT tasks, demonstrating its adaptability to diverse LLM families and scalability to datasets of any size. Comprehensive ablation studies further verify the robustness of SFTMix's design choices, underscoring its versatility in consistently enhancing performance across different LLMs and datasets in broader natural language processing applications.
+  </details>  
+
 * **In the Name of Fairness: Assessing the Bias in Clinical Record De-identification** <br>
   <u>Yuxin Xiao</u>\*, Shulammite Lim\*, Tom Joseph Pollard, Marzyeh Ghassemi. <br>
   [FAccT 2023] (Oral Presentation) <br>
