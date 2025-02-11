@@ -12,6 +12,18 @@ redirect_from:
 During Ph.D.
 ======
 
+* **Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions** <br>
+  Yik Siu Chan\*, Narutatsu Ri\*, <u>Yuxin Xiao</u>\*, Marzyeh Ghassemi. <br>
+  [arXiv 2025] (Preprint) <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://arxiv.org/pdf/2502.04322.pdf" role="button" target="_blank"> Paper </a> | 
+        <a href="https://github.com/yiksiu-chan/SpeakEasy" role="button" target="_blank"> Code </a>
+    </summary>
+    Despite extensive safety alignment efforts, large language models (LLMs) remain vulnerable to jailbreak attacks that elicit harmful behavior. While existing studies predominantly focus on attack methods that require technical expertise, two critical questions remain underexplored: (1) Are jailbroken responses truly useful in enabling average users to carry out harmful actions? (2) Do safety vulnerabilities exist in more common, simple human-LLM interactions? In this paper, we demonstrate that LLM responses most effectively facilitate harmful actions when they are both actionable and informative—two attributes easily elicited in multi-step, multilingual interactions. Using this insight, we propose HarmScore, a jailbreak metric that measures how effectively an LLM response enables harmful actions, and Speak Easy, a simple multi-step, multilingual attack framework. Notably, by incorporating Speak Easy into direct request and jailbreak baselines, we see an average absolute increase of 0.319 in Attack Success Rate and 0.426 in HarmScore in both open-source and proprietary LLMs across four safety benchmarks. Our work reveals a critical yet often overlooked vulnerability: Malicious users can easily exploit common interaction patterns for harmful intentions.
+  </details>  
+
 * **SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe** <br>
   <u>Yuxin Xiao</u>, Shujian Zhang, Wenxuan Zhou, Marzyeh Ghassemi, Sanqiang Zhao. <br>
   [arXiv 2024] (Preprint) <br>
