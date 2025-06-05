@@ -13,7 +13,7 @@ During Ph.D.
 ======
 
 * **When Style Breaks Safety: Defending Language Models Against Superficial Style Alignment** <br>
-  Yuxin Xiao, Sana Tonekaboni, Walter Gerych, Vinith Suriyakumar, Marzyeh Ghassemi. <br>
+  <u>Yuxin Xiao</u>, Sana Tonekaboni, Walter Gerych, Vinith Suriyakumar, Marzyeh Ghassemi. <br>
   [arXiv 2025] (Preprint) <br>
   <details> 
     <summary>
@@ -25,7 +25,7 @@ During Ph.D.
   </details>  
 
 * **KScope: A Framework for Characterizing the Knowledge Status of Language Models** <br>
-  Yuxin Xiao, Shan Chen, Jack Gallifant, Danielle Bitterman, Thomas Hartvigsen, Marzyeh Ghassemi. <br>
+  <u>Yuxin Xiao</u>, Shan Chen, Jack Gallifant, Danielle Bitterman, Thomas Hartvigsen, Marzyeh Ghassemi. <br>
   [arXiv 2025] (Preprint) <br>
   <details> 
     <summary>
