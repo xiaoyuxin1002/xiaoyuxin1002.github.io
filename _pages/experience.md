@@ -14,7 +14,7 @@ Education
 ======
 
 * Ph.D. in Social & Engineering Systems and Statistics, Massachusetts Institute of Technology
-  * 06/2022 - present, GPA: 5.0/5.0
+  * 09/2022 - present, GPA: 5.0/5.0
   * Advised by Prof. Marzyeh Ghassemi
 
 * M.S. in Machine Learning, Carnegie Mellon University
@@ -36,6 +36,9 @@ Awards & Honors
 
 Industry Experience
 ======
+
+* Microsoft Research @ Redmond, USA
+  * 06/2025 - 08/2025, Research Intern
 
 * Zoom @ San Jose, USA
   * 06/2024 - 08/2024, Research Intern
