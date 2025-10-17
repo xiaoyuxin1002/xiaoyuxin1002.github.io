@@ -38,16 +38,16 @@ Industry Experience
 ======
 
 * Microsoft Research @ Redmond, USA
-  * 06/2025 - 08/2025, Research Intern
+  * 06/2025 - 08/2025, Research Intern @ Deep Learning Group & Health Futures
 
 * Zoom @ San Jose, USA
-  * 06/2024 - 08/2024, Research Intern
+  * 06/2024 - 08/2024, Research Intern @ GenAI R&D Team
 
 * Bosch Center for AI @ Renningen, Germany
-  * 06/2023 - 08/2023, Research Intern
+  * 06/2023 - 08/2023, Research Intern @ NLP Team
 
 * Cars.com @ Chicago, USA
-  * 01/2018 - 08/2018, Software Engineer Intern 
+  * 01/2018 - 08/2018, Software Engineer Intern @ Mobile Development Team
 
 
 Teaching Experience
