@@ -11,7 +11,7 @@ redirect_from:
 
 During Ph.D.
 ======
-* **Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models**
+* **Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models** <br>
   <u>Yuxin Xiao</u>, Sheng Zhang, Chandan Singh, Tristan Naumann, Hoifung Poon, Jianfeng Gao, Xiaodong Liu. <br>
   [Preprint 2026] <br>
   <details> 
