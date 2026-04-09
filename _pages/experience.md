@@ -37,16 +37,19 @@ Awards & Honors
 Industry Experience
 ======
 
-* Microsoft Research @ Redmond, USA
+* Meta @ Menlo Park, CA, USA
+  * 06/2026 - 08/2026, Research Intern
+
+* Microsoft Research @ Redmond, WA, USA
   * 06/2025 - 08/2025, Research Intern @ Deep Learning Group & Health Futures
 
-* Zoom @ San Jose, USA
+* Zoom @ San Jose, CA, USA
   * 06/2024 - 08/2024, Research Intern @ GenAI R&D Team
 
-* Bosch Center for AI @ Renningen, Germany
+* Bosch Center for AI @ Renningen, Baden-Württemberg, Germany
   * 06/2023 - 08/2023, Research Intern @ NLP Team
 
-* Cars.com @ Chicago, USA
+* Cars.com @ Chicago, IL, USA
   * 01/2018 - 08/2018, Software Engineer Intern @ Mobile Development Team
 
 
@@ -54,6 +57,7 @@ Teaching Experience
 ======
 
 * Massachusetts Institute of Technology
+  * 02/2026 to 05/2026, 6.S977 Ethical Machine Learning in Human Deployments
   * 06/2022 to 08/2022, 14.310x Data Science for Social Scientists
 
 * University of Illinois at Urbana-Champaign

@@ -11,6 +11,29 @@ redirect_from:
 
 During Ph.D.
 ======
+* **Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models**
+  <u>Yuxin Xiao</u>, Sheng Zhang, Chandan Singh, Tristan Naumann, Hoifung Poon, Jianfeng Gao, Xiaodong Liu. <br>
+  [Preprint 2026] <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="" role="button" target="_blank"> Paper </a> | 
+        <a href="" role="button" target="_blank"> Code </a>
+    </summary>
+    Electronic health record (EHR) foundation models pre-trained on longitudinal patient trajectories have demonstrated strong performance across a range of clinical prediction tasks. However, their effectiveness for long-horizon clinical reasoning is often constrained by limited data availability, reliance on next-token prediction objectives, and the inherent incompleteness and irregularity of EHR timelines. In this work, we propose a reinforcement learning (RL) fine-tuning framework that treats EHR foundation models as generative policies over patient trajectories and directly optimizes clinically meaningful reasoning objectives. We formulate common clinical prediction problems, including hospital readmission, ICU readmission, and inpatient mortality, as event-conditioned, time-windowed reasoning tasks. We then introduce time-aware, task-verifiable reward functions that explicitly account for finite rollout length constraints and temporally inconclusive outcomes. On this basis, we show that RL fine-tuning consistently outperforms the pre-trained base model and other strong baselines. Notably, RL fine-tuning enables smaller models to surpass larger pre-trained models in data-limited regimes and yields positive transfer in multi-task settings. Further analysis demonstrates that RL-fine-tuned models generate trajectories that are more structurally and token-wise aligned with ground-truth timelines and provide greater downstream predictive utility. Together, these results establish RL fine-tuning with time-aware rewards as an effective strategy for enhancing both the reasoning capability and practical utility of EHR foundation models.
+  </details>  
+
+* **When Style Breaks Safety: Defending LLMs Against Superficial Style Alignment** <br>
+  <u>Yuxin Xiao</u>, Sana Tonekaboni, Walter Gerych, Vinith Suriyakumar, Marzyeh Ghassemi. <br>
+  [ICLR 2026] <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://arxiv.org/abs/2506.07452" role="button" target="_blank"> Paper </a> | 
+        <a href="https://github.com/xiaoyuxin1002/SafeStyle" role="button" target="_blank"> Code </a>
+    </summary>
+    Large language models (LLMs) can be prompted with specific styles (e.g., formatting responses as lists), including in malicious queries. Prior jailbreak research mainly augments these queries with additional string transformations to maximize attack success rate (ASR). However, the impact of style patterns in the original queries that are semantically irrelevant to the malicious intent remains unclear. In this work, we seek to understand whether style patterns compromise LLM safety, how superficial style alignment increases model vulnerability, and how best to mitigate these risks during alignment. We first define ASR inflation as the increase in ASR due to style patterns in existing jailbreak benchmark queries. By evaluating 36 LLMs across seven benchmarks, we find that nearly all models exhibit ASR inflation. Notably, the inflation correlates with an LLM's relative attention to style patterns, which also overlap more with its instruction-tuning data when inflation occurs. We then investigate superficial style alignment, and find that fine-tuning with specific styles makes LLMs more vulnerable to jailbreaks of those same styles. Finally, we propose SafeStyle, a defense strategy that incorporates a small amount of safety training data augmented to match the distribution of style patterns in the fine-tuning data. Across three LLMs, six fine-tuning style settings, and two real-world instruction-tuning datasets, SafeStyle consistently outperforms baselines in maintaining LLM safety.
+  </details>  
 
 * **KScope: A Framework for Characterizing the Knowledge Status of Language Models** <br>
   <u>Yuxin Xiao</u>, Shan Chen, Jack Gallifant, Danielle Bitterman, Thomas Hartvigsen, Marzyeh Ghassemi. <br>
@@ -22,18 +45,6 @@ During Ph.D.
         <a href="https://github.com/xiaoyuxin1002/KScope" role="button" target="_blank"> Code </a>
     </summary>
     Characterizing a large language model's (LLM's) knowledge of a given question is challenging. As a result, prior work has primarily examined LLM behavior under knowledge conflicts, where the model's internal parametric memory contradicts information in the external context. However, this does not fully reflect how well the model knows the answer to the question. In this paper, we first introduce a taxonomy of five knowledge statuses based on the consistency and correctness of LLM knowledge modes. We then propose KScope, a hierarchical framework of statistical tests that progressively refines hypotheses about knowledge modes and characterizes LLM knowledge into one of these five statuses. We apply KScope to nine LLMs across four datasets and systematically establish: (1) Supporting context narrows knowledge gaps across models. (2) Context features related to difficulty, relevance, and familiarity drive successful knowledge updates. (3) LLMs exhibit similar feature preferences when partially correct or conflicted, but diverge sharply when consistently wrong. (4) Context summarization constrained by our feature analysis, together with enhanced credibility, further improves update effectiveness and generalizes across LLMs.
-  </details>  
-
-* **When Style Breaks Safety: Defending LLMs Against Superficial Style Alignment** <br>
-  <u>Yuxin Xiao</u>, Sana Tonekaboni, Walter Gerych, Vinith Suriyakumar, Marzyeh Ghassemi. <br>
-  [Preprint 2025] <br>
-  <details> 
-    <summary>
-        Abstract |
-        <a href="https://arxiv.org/abs/2506.07452" role="button" target="_blank"> Paper </a> | 
-        <a href="https://github.com/xiaoyuxin1002/SafeStyle" role="button" target="_blank"> Code </a>
-    </summary>
-    Large language models (LLMs) can be prompted with specific styles (e.g., formatting responses as lists), including in malicious queries. Prior jailbreak research mainly augments these queries with additional string transformations to maximize attack success rate (ASR). However, the impact of style patterns in the original queries that are semantically irrelevant to the malicious intent remains unclear. In this work, we seek to understand whether style patterns compromise LLM safety, how superficial style alignment increases model vulnerability, and how best to mitigate these risks during alignment. We first define ASR inflation as the increase in ASR due to style patterns in existing jailbreak benchmark queries. By evaluating 32 LLMs across seven benchmarks, we find that nearly all models exhibit ASR inflation. Notably, the inflation correlates with an LLM's relative attention to style patterns, which also overlap more with its instruction-tuning data when inflation occurs. We then investigate superficial style alignment, and find that fine-tuning with specific styles makes LLMs more vulnerable to jailbreaks of those same styles. Finally, we propose SafeStyle, a defense strategy that incorporates a small amount of safety training data augmented to match the distribution of style patterns in the fine-tuning data. Across three LLMs, six fine-tuning style settings, and two real-world instruction-tuning datasets, SafeStyle consistently outperforms baselines in maintaining LLM safety.
   </details>  
 
 * **Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions** <br>
@@ -50,7 +61,7 @@ During Ph.D.
 
 * **SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe** <br>
   <u>Yuxin Xiao</u>, Shujian Zhang, Wenxuan Zhou, Marzyeh Ghassemi, Sanqiang Zhao. <br>
-  [Preprint 2024] <br>
+  [ACL 2026] <br>
   <details> 
     <summary>
         Abstract |
