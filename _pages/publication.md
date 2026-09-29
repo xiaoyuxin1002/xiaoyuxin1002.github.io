@@ -11,8 +11,8 @@ redirect_from:
 
 During Ph.D.
 ======
-* **Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models** <br>
-  <u>Yuxin Xiao</u>, Sheng Zhang, Chandan Singh, Tristan Naumann, Hoifung Poon, Jianfeng Gao, Xiaodong Liu. <br>
+* **Recurrent Harness for Agentic Continual Learning** <br>
+  <u>Yuxin Xiao</u>, Zhiyun Lu, Jianyu Wang, Yangtian Zhang, Yang Song, Qifan Wang, Bailin Wang. <br>
   [Preprint 2026] <br>
   <details> 
     <summary>
@@ -20,7 +20,19 @@ During Ph.D.
         <a href="" role="button" target="_blank"> Paper </a> | 
         <a href="" role="button" target="_blank"> Code </a>
     </summary>
-    Electronic health record (EHR) foundation models pre-trained on longitudinal patient trajectories have demonstrated strong performance across a range of clinical prediction tasks. However, their effectiveness for long-horizon clinical reasoning is often constrained by limited data availability, reliance on next-token prediction objectives, and the inherent incompleteness and irregularity of EHR timelines. In this work, we propose a reinforcement learning (RL) fine-tuning framework that treats EHR foundation models as generative policies over patient trajectories and directly optimizes clinically meaningful reasoning objectives. We formulate common clinical prediction problems, including hospital readmission, ICU readmission, and inpatient mortality, as event-conditioned, time-windowed reasoning tasks. We then introduce time-aware, task-verifiable reward functions that explicitly account for finite rollout length constraints and temporally inconclusive outcomes. On this basis, we show that RL fine-tuning consistently outperforms the pre-trained base model and other strong baselines. Notably, RL fine-tuning enables smaller models to surpass larger pre-trained models in data-limited regimes and yields positive transfer in multi-task settings. Further analysis demonstrates that RL-fine-tuned models generate trajectories that are more structurally and token-wise aligned with ground-truth timelines and provide greater downstream predictive utility. Together, these results establish RL fine-tuning with time-aware rewards as an effective strategy for enhancing both the reasoning capability and practical utility of EHR foundation models.
+    Language model agents increasingly operate over long interaction streams, requiring online adaptation to distribution shifts through continual learning. However, existing agent harnesses typically either evolve their states only through forward information flow or rely on additional replay or validation data for harness optimization. To address this, we propose ReHarness, a recurrent harness framework for agentic continual learning that complements forward read and write with backward revision under a strictly online streaming protocol. We ask what information could have been captured differently in the harness state to better inform the current instance in the stream. Specifically, after each instance, we leverage the resulting trajectory as feedback to revise the reflections retrieved for that instance, thereby propagating feedback backward through the textual harness state. Across three continual learning benchmarks and three language model backbones, ReHarness consistently outperforms strong raw-context baselines, memory- and reflection-based methods, and prompt optimization approaches. Further analysis shows that ReHarness produces source-grounded and meaningful revisions, corrects overgeneralized or outdated experience under distribution shifts, and improves both stability and plasticity during continual learning.
+  </details>  
+
+* **Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models** <br>
+  <u>Yuxin Xiao</u>, Sheng Zhang, Chandan Singh, Tristan Naumann, Hoifung Poon, Jianfeng Gao, Xiaodong Liu. <br>
+  [Preprint 2026] <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://arxiv.org/abs/2609.12277" role="button" target="_blank"> Paper </a> | 
+        <a href="" role="button" target="_blank"> Code </a>
+    </summary>
+    Electronic health record (EHR) foundation models trained on longitudinal patient trajectories have demonstrated strong performance across diverse clinical prediction tasks. However, their clinical reasoning capabilities remain constrained by next-token prediction on limited and incomplete EHR data. To address this, we propose a reinforcement learning (RL) fine-tuning framework that treats EHR foundation models as generative policies over patient trajectories. We formulate common clinical prediction problems (e.g., hospital readmission) as event-conditioned, time-windowed reasoning tasks. We then design time-aware, rollout-sensitive rewards to account for finite rollout lengths and temporally inconclusive outcomes. We find that RL fine-tuning consistently improves over pre-trained backbones and strong baselines. Notably, it enables smaller models to surpass larger pre-trained models in data-limited regimes and induces positive transfer across tasks. Further analysis shows that RL fine-tuned models generate trajectories with stronger structural and semantic alignment to ground truth and greater downstream utility.
   </details>  
 
 * **When Style Breaks Safety: Defending LLMs Against Superficial Style Alignment** <br>

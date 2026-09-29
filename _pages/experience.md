@@ -37,8 +37,8 @@ Awards & Honors
 Industry Experience
 ======
 
-* Meta @ Menlo Park, CA, USA
-  * 06/2026 - 08/2026, Research Intern
+* Meta MRS @ Menlo Park, CA, USA
+  * 06/2026 - 08/2026, Research Intern @ MRS Research Team
 
 * Microsoft Research @ Redmond, WA, USA
   * 06/2025 - 08/2025, Research Intern @ Deep Learning Group & Health Futures
@@ -64,3 +64,17 @@ Teaching Experience
   * 08/2019 - 12/2019, CS446 Machine Learning
   * 08/2019 - 12/2019, CS410 Text Information Systems
   * 01/2017 - 05/2017, CS125 Introduction to Computer Science
+
+
+Academic Service
+======
+
+* Workshop Organizer
+  * [LLM/VLM Deployment Opportunities and Risks in Healthcare @ COLM 2026](https://daih2026.github.io/)
+
+* Conference & Journal Reviewer
+  * NeurIPS, ICML, ICLR, ACL Rolling Review, CHIL, ML4H
+  * TMLR, JAMIA, Nature Medicine, Nature Human Behaviour
+
+* Research Mentor
+  * [Yik Siu Chan](https://yiksiu-chan.github.io/) (now PhD student at UMD)
