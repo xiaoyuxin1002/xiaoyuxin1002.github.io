@@ -399,3 +399,17 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.research-interests {
+  ul,
+  li,
+  li ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  li p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

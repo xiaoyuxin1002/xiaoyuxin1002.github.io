@@ -77,4 +77,4 @@ Academic Service
   * TMLR, JAMIA, Nature Medicine, Nature Human Behaviour
 
 * Research Mentor
-  * [Yik Siu Chan](https://yiksiu-chan.github.io/) (now PhD student at UMD)
+  * Yik Siu Chan (now PhD student at UMD)
