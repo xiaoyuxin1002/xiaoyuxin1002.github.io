@@ -400,17 +400,21 @@
   text-transform: uppercase;
 }
 
-.research-interests {
-  > ul {
-    margin-top: 0;
-  }
-
-  li {
+.page__content {
+  .research-intro {
     margin-bottom: 0;
   }
 
-  li ul {
+  .research-interests {
     margin-top: 0;
-    margin-bottom: 0;
+
+    li {
+      margin-bottom: 0;
+    }
+
+    li ul {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
   }
 }

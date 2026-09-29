@@ -13,8 +13,8 @@ About Me
 I am a Ph.D. candidate majoring in [Social & Engineering Systems and Statistics](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and LIDS. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/).
 
 My current research centers around two primary topics:
+{: .research-intro}
 
-<div class="research-interests" markdown="1">
 * **Understanding LLM Alignment**: Characterizing when and why language models fail to use information effectively
   * **Safety** under multi-step, multilingual interactions ([Speak Easy, ICML'25](https://arxiv.org/abs/2502.04322)) and superficial style alignment ([SafeStyle, ICLR'26](https://arxiv.org/abs/2506.07452))
   * **Knowledge** use and updates under retrieval augmentation ([KScope, NeurIPS'25](https://arxiv.org/abs/2506.07458))
@@ -23,7 +23,7 @@ My current research centers around two primary topics:
   * **Supervised Fine-Tuning** for instruction following ([SFTMix, ACL'26](https://arxiv.org/abs/2410.05248))
   * **Reinforcement Learning** in healthcare ([ETHOS-RL, In Submission](https://arxiv.org/abs/2609.12277))
   * **Agent Harnesses** for continual learning ([ReHarness, In Submission]())
-</div>
+{: .research-interests}
 
 For more information about my background and qualifications, please refer to [my CV](https://xiaoyuxin1002.github.io/files/CV.pdf).
 
