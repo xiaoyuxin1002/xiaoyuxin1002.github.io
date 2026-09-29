@@ -401,14 +401,15 @@
 }
 
 .research-interests {
-  ul,
-  li,
-  li ul {
+  > ul {
     margin-top: 0;
+  }
+
+  li {
     margin-bottom: 0;
   }
 
-  li p {
+  li ul {
     margin-top: 0;
     margin-bottom: 0;
   }
